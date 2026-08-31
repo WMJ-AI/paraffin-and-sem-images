@@ -1,1 +1,0 @@
-# paraffin-and-sem-images
