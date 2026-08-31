@@ -1,0 +1,784 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[471,491],[822,268]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[513,490],[779,490]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[779,490],[827,490]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[827,490],[862,490]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img01.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[473,477],[665,99]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[521,480],[743,480]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[743,480],[791,480]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[791,480],[825,480]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img02.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[593,461],[33,129]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[489,473],[103,473]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[103,473],[55,473]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[55,473],[11,473]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img03.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[333,569],[923,129]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[435,571],[873,571]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[873,571],[939,571]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[939,571],[983,571]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img04.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[461,493],[701,213]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[513,491],[717,491]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[717,491],[749,491]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[749,491],[773,491]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img05.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[525,533],[77,87]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[417,541],[129,541]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[129,541],[73,541]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[73,541],[9,541]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img06.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[381,565],[905,83]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[485,563],[891,563]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[891,563],[953,563]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[953,563],[993,563]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img07.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[467,474],[629,205]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[511,472],[671,472]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[671,472],[703,472]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[703,472],[724,472]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img08.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[504,445],[937,154]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[602,443],[896,443]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[896,443],[949,443]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[949,443],[988,443]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img09.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[507,457],[940,743]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[622,440],[886,440]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[886,440],[937,440]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[937,440],[978,440]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img10.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[18,172],[878,528]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[104,534],[682,534]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[54,534],[104,534]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[8,534],[54,534]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img11.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[326,544],[968,180]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[428,574],[880,574]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[880,574],[942,574]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[942,574],[990,574]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img12.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[34,190],[694,644]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[116,634],[602,634]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[62,634],[116,634]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[8,634],[62,634]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img13.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[466,484],[724,230]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[514,482],[706,482]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[706,482],[740,482]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[740,482],[768,482]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img14.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[30,194],[634,530]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[110,526],[518,526]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[58,526],[110,526]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[6,526],[58,526]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img15.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[386,542],[986,370]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[484,446],[804,194]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[804,194],[864,134]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[864,134],[910,82]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img16.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[468,510],[620,270]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[512,508],[638,508]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[638,508],[670,508]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[670,508],[694,508]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img17.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[94,244],[524,518]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[622,514],[854,514]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[854,514],[914,514]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[914,514],[960,514]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img18.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[104,186],[498,474]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[144,462],[404,462]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[86,462],[144,462]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[44,462],[86,462]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img19.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {"label":"半径","points":[[496,506],[924,274]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"木质部","points":[[600,514],[894,514]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"韧皮部","points":[[894,514],[936,514]],"group_id":null,"shape_type":"line","flags":{}},
+    {"label":"树皮皮层","points":[[936,514],[970,514]],"group_id":null,"shape_type":"line","flags":{}}
+  ],
+  "imagePath":"img20.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [162, 462],
+        [812, 170]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [320, 480],
+        [640, 480]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [640, 480],
+        [722, 480]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [722, 480],
+        [768, 480]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img21.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1432
+}
+
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [90,530],
+        [1370,210]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [300,522],
+        [860,522]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [860,522],
+        [964,522]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [964,522],
+        [1010,522]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img22.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [488,508],
+        [870,406]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [370,544],
+        [110,582]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [110,582],
+        [70,590]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [70,590],
+        [40,598]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img23.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [234,580],
+        [898,82]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [472,462],
+        [838,240]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [838,240],
+        [926,174]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [926,174],
+        [962,142]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img24.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [210,526],
+        [1414,594]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [400,424],
+        [874,284]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [874,284],
+        [954,240]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [954,240],
+        [982,222]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img25.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [482,514],
+        [482,942]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [482,364],
+        [482,114]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [482,114],
+        [482,54]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [482,54],
+        [482,14]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img26.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [674,414],
+        [34,134]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [504,454],
+        [134,454]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [134,454],
+        [64,454]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [64,454],
+        [14,454]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img27.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [348,494],
+        [974,174]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [534,374],
+        [846,226]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [846,226],
+        [938,146]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [938,146],
+        [970,118]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img28.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [458,564],
+        [204,204]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [498,514],
+        [714,284]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [714,284],
+        [774,204]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [774,204],
+        [800,174]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img29.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "半径",
+      "points": [
+        [684,444],
+        [24,84]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "木质部",
+      "points": [
+        [586,504],
+        [124,504]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "韧皮部",
+      "points": [
+        [124,504],
+        [64,504]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    },
+    {
+      "label": "树皮皮层",
+      "points": [
+        [64,504],
+        [10,504]
+      ],
+      "group_id": null,
+      "shape_type": "line",
+      "flags": {}
+    }
+  ],
+  "imagePath":"img30.jpg",
+  "imageData":null,
+  "imageHeight":960,
+  "imageWidth":1432
+}

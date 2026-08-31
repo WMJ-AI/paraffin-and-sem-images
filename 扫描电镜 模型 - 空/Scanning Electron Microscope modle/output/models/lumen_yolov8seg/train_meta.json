@@ -1,0 +1,9 @@
+{
+  "data": "D:\\BaiduNetdiskDownload\\资料\\资料\\vessel_pipeline\\output\\dataset_lumen\\data.yaml",
+  "model": "output/models/lumen_yolov8seg/weights/best.pt",
+  "epochs": 20,
+  "imgsz": 640,
+  "batch": 4,
+  "best": "D:\\BaiduNetdiskDownload\\资料\\资料\\vessel_pipeline\\output\\models\\lumen_yolov8seg\\weights\\best.pt",
+  "save_dir": "D:\\BaiduNetdiskDownload\\资料\\资料\\vessel_pipeline\\output\\models\\lumen_yolov8seg"
+}
