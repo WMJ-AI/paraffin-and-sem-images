@@ -1,7 +1,0 @@
-# vessel lumen YOLO-seg (from reviewed PNGs)
-path: D:/BaiduNetdiskDownload/资料/资料/vessel_pipeline/output/dataset_lumen
-train: images/train
-val: images/val
-names:
-  0: lumen
-  1: multi_vessel_region
