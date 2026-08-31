@@ -1,0 +1,7 @@
+path: D:\BaiduNetdiskDownload\shibie\datasets\region1_pose
+train: images/train
+val: images/val
+names:
+  0: stem
+kpt_shape: [6, 3]
+flip_idx: []

@@ -1,0 +1,11 @@
+{
+  "center_frac": 0.5,
+  "height_frac": 0.25,
+  "width_frac": 0.95,
+  "x_center_frac": 0.5,
+  "search_lo": 0.35,
+  "search_hi": 0.65,
+  "min_height_frac": 0.18,
+  "min_width_frac": 0.88,
+  "max_height_frac": 0.375
+}

@@ -1,0 +1,5 @@
+path: D:\BaiduNetdiskDownload\shibie\datasets\region3_detect
+train: images/train
+val: images/val
+names:
+  0: cambium
